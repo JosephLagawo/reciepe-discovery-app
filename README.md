@@ -4,6 +4,10 @@ A React-based recipe discovery application that allows users to search for and e
 
 The project was built to strengthen my understanding of frontend development, API integration, asynchronous data handling, and user-focused application design.
 
+# Live Demo
+
+🌐 [View live application](unclejoesrecipebook.netlify.app)
+
 ## Features
 
 * Search for recipes
