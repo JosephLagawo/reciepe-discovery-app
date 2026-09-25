@@ -6,7 +6,7 @@ The project was built to strengthen my understanding of frontend development, AP
 
 # Live Demo
 
-🌐 [View live application] (unclejoesrecipebook.netlify.app)
+🌐 [View live application](unclejoesrecipebook.netlify.app)
 
 ## Features
 
